@@ -1,1 +1,3 @@
-# hds_7
+pandas 
+plotly_express 
+streamlit
