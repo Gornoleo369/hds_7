@@ -1,4 +1,1 @@
-pandas == 2.2.3
-plotly_express == 0.4.1
-streamlit == 1.45.1
 https://hds-7.onrender.com
