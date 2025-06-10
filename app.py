@@ -20,7 +20,7 @@ if hist_button: # al hacer clic en el botón
     st.plotly_chart(fig, use_container_width=True)
 
 
-build_lineplot = st.checkbox('Construir evolución de precio')
+build_lineplot = st.checkbox('Construir evolución de precio').py
 
 if build_lineplot:
     st.write('Evolución de precio promedio según condición vehiculo')
